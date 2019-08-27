@@ -16,7 +16,7 @@ https://github.com/worawit/MS17-010
 
 
 
-To check if victim machine is vulnerable to MS17-010:
+Check if victim machine is vulnerable to MS17-010:
 
 From MS17-010 directory :
 
