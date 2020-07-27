@@ -1,3 +1,6 @@
+1..5 | foreach { new-item -path C:\Temp\jv\jv$_.txt -Value "TEST FILE $_"} 
+
+
 
 Sub Document_Open()
 
